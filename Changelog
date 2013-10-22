@@ -1,0 +1,10 @@
+Changelog:
+---------
+2008/04/08 version 1.0.0 by Oliver Riesen <oliver@riesen.org>
+- Initial release for Phorum 5.2
+
+2008/04/11 version 1.0.1 by Oliver Riesen <oliver@riesen.org>
+- Fix for undefined index.
+
+2008/04/15 version 1.0.2 by Oliver Riesen <oliver@riesen.org>
+- Fix for list page.

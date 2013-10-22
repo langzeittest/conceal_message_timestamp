@@ -1,0 +1,47 @@
+Module: Conceal Message Timestamp
+Author: Oliver Riesen <oliver@riesen.org>
+
+Conceals message timestamp for messages older than 24 hours. Don't let your
+boss know that you wrote at work...
+
+Tested on version 5.2.7
+
+
+License:
+-------
+
+Free to use, modify, or redistribute this code so long as I am given credit for
+the original development somewhere. This code comes with absolutly no warranty.
+
+
+Installation:
+------------
+
+1. Unpack the archive.
+
+2. Move the directory "conceal_message_timestamp" to the directory "mods"
+   within your Phorum installation. Don't change the directory name!
+
+3. Login as administrator in Phorum's administrative interface and go to the
+   "Modules" section.
+
+4. Enable the module "Conceal Message Timestamp".
+
+
+Module settings:
+---------------
+
+There are no settings.
+
+
+Language support:
+----------------
+
+This module doesn't contain any language text.
+
+
+Wishlist:
+--------
+
+- Add settings for period of time.
+- Conceal timestamp in last edit notice.
