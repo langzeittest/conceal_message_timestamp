@@ -1,8 +1,9 @@
 Module: Conceal Message Timestamp
+Version: 1.0.2
 Author: Oliver Riesen <oliver@riesen.org>
 
 Conceals message timestamp for messages older than 24 hours. Don't let your
-boss know that you wrote at work...
+boss know that you wrote at work ...
 
 Tested on version 5.2.7
 
@@ -45,3 +46,10 @@ Wishlist:
 
 - Add settings for period of time.
 - Conceal timestamp in last edit notice.
+
+
+Contribution:
+------------
+
+Contribute on GitHub:
+https://github.com/langzeittest/conceal_message_timestamp
