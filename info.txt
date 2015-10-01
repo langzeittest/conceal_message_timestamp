@@ -1,10 +1,10 @@
 title: Conceal Message Timestamp
-desc:  Conceals message timestamp for messages older than 24 hours. Don't let your boss know that you wrote at work...
+desc:  Conceals message timestamp for messages older than 24 hours. Don't let your boss know that you wrote at work ...
 author: Oliver Riesen <oliver@riesen.org>
 url: http://www.phorum.org/phorum5/read.php?62,129359
 category: viewlayout
 required_version: 5.2.0
-version: 1.0.2
+version: 1.0.3 Last Edition
 
 hook: list|mod_conceal_message_timestamp
 hook: read|mod_conceal_message_timestamp

@@ -8,3 +8,9 @@ Changelog:
 
 2008/04/15 version 1.0.2 by Oliver Riesen <oliver@riesen.org>
 - Fix for list page.
+
+2015/10/01 version 1.0.3 by Oliver Riesen <oliver@riesen.org>
+- Last Edition! The functions of this module are now included in the "Readable
+  Dates and Concealed Times Module" (formerly "Readable Dates Module") from
+  version 1.2.0 and above.
+- Known issues added.

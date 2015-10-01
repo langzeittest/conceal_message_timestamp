@@ -1,11 +1,20 @@
 Module: Conceal Message Timestamp
-Version: 1.0.2
+Version: 1.0.3 Last Edition
 Author: Oliver Riesen <oliver@riesen.org>
 
 Conceals message timestamp for messages older than 24 hours. Don't let your
 boss know that you wrote at work ...
 
-Tested on version 5.2.7
+LAST EDITION!
+
+The functions of this module are now included in the "Readable Dates and
+Concealed Times Module" (formerly "Readable Dates Module") from version 1.2.0
+and above.
+
+Formatting date and times in two separate modules doesn't work well (see
+"known issues"). So I decided to extend the old "Readable Dates Module".
+
+Tested on version 5.2.20
 
 
 License:
@@ -41,11 +50,20 @@ Language support:
 This module doesn't contain any language text.
 
 
-Wishlist:
---------
+Dependencies:
+------------
 
-- Add settings for period of time.
-- Conceal timestamp in last edit notice.
+- Do not use this module together with the "Readable Dates and Concealed Times
+  Module", version 1.2.0 and above.
+
+
+Known issues:
+------------
+
+- Conceal timestamp in last edit notice is not supported.
+
+- The "Recent Message Module" (till version 1.1.x) doesn't support concealing
+  message timestamps.
 
 
 Contribution:
